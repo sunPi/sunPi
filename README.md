@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jan Rogel (@sunPi).
 - 👀 I’m interested in Bioinformatics and anything related (Molecualr Biology, Biotechnology, etc.)
 - 🌱 I’m currently learning coding in Java, Python and R. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java projects using deeplearning4j.
 - 📫 How to reach me ...
 
 <!---
