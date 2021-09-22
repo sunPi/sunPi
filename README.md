@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jan Rogel (@sunPi).
+- 👋 Hi everyone, I’m Jan Rogel (@sunPi).
 - 👀 I’m interested in Bioinformatics and anything related (Molecualr Biology, Biotechnology, etc.)
 - 🌱 I’m currently learning deeplearning in Python and R environment. 
 - 💞️ I’m looking to collaborate on Java/Python/R projects involving machine learning (deep learning), protein modeling or gene expression prediction.
